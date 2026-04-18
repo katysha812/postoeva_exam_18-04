@@ -7,7 +7,9 @@
 
 /diagrams - диаграммы
 [class_diagram.png] - диаграмма классов
+
 [posledovatelnost_diagram.png] - диаграмма последовательности
+
 [deyatelnost_diagram.png] - диаграмма деятельности
 
 
